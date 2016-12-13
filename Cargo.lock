@@ -1,0 +1,4 @@
+[root]
+name = "static-rust-app"
+version = "0.1.0"
+
