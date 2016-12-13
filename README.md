@@ -47,5 +47,3 @@ https://blog.rust-lang.org/2016/05/13/rustup.html
 ### TODO
 
 Cross-compilation from MacOS to Linux involves adding an ELF-aware linker, which I've not yet investigated. 
-
-Add notes about inserting ca-certificates.crt if the application uses SSL. Don't supply a ca-certificates.crt file, though, as readers should not trust one supplied by random people.
